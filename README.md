@@ -1,16 +1,16 @@
-# Hi there 👋, I'm Aditya Das  
+# Hi there👋🏼, I'm Aditya Das  
 
-🎓 Cybersecurity & Cloud Security Student at NJIT  
-🔐 Cloud Security Intern @ NJDOL | AWS | Terraform | Python | Security+ (in progress)  
+🎓 Cybersecurity BS/MS Student at NJIT  
+🔐 Cloud Security Intern @ NJDOL | AWS CPP | SC-900
 🌍 Based in New Jersey, USA  
 
 ---
 
 ### 🚀 About Me
-- 🌐 Passionate about **Cloud Security, IAM, and Automation**  
-- 💻 Experienced with **AWS Security Hub, Config, Lambda, Terraform**  
-- 🛡️ Interested in SOC, Digital Forensics, and DevSecOps  
-- 📈 Actively building projects in **Python, Linux, and Web Development**  
+🌐 Focused on Cloud Security, Identity & Access Management (IAM), and Security Automation
+💻 Hands-on experience with AWS Security Hub, AWS Config, Lambda, and Terraform
+🛡️ Strong interests in Security Operations (SOC), Digital Forensics, and DevSecOps practices
+📈 Continuously developing projects in Python, Linux environments, and in the Cloud.
 
 ---
 
@@ -33,7 +33,6 @@
 
 ### 📊 GitHub Stats
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadaytida24&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sadaytida24&theme=radical)  
 
 ---
 
