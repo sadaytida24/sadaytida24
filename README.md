@@ -2,7 +2,6 @@
 
 🎓 Cybersecurity BS/MS Student at NJIT  
 🔐 Cloud Security Intern @ NJDOL | AWS CPP | SC-900
-🌍 Based in New Jersey, USA  
 
 ---
 
