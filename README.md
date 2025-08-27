@@ -7,10 +7,10 @@
 ---
 
 ### 🚀 About Me
-🌐 Focused on Cloud Security, Identity & Access Management (IAM), and Security Automation
-💻 Hands-on experience with AWS Security Hub, AWS Config, Lambda, and Terraform
-🛡️ Strong interests in Security Operations (SOC), Digital Forensics, and DevSecOps practices
-📈 Continuously developing projects in Python, Linux environments, and in the Cloud.
+- 🌐 Focused on Cloud Security, Identity & Access Management (IAM), and Security Automation
+- 💻 Hands-on experience with AWS Security Hub, AWS Config, Lambda, and Terraform
+- 🛡️ Strong interests in Security Operations (SOC), Digital Forensics, and DevSecOps practices
+- 📈 Continuously developing projects in Python, Linux environments, and in the Cloud.
 
 ---
 
@@ -20,7 +20,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&style=flat)
 
 ---
 
@@ -28,11 +27,6 @@
 - [**PrepPenguin**](https://github.com/sadaytida24/PrepPenguin) 🐧 — Education startup project  
 - [**Ghost-Lock**](https://github.com/sadaytida24/Ghost-Lock) 🔒 — Security-focused tool  
 - [**Aditya-Portfolio**](https://github.com/sadaytida24/Aditya-Portfolio) 🌐 — Personal portfolio website  
-
----
-
-### 📊 GitHub Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadaytida24&show_icons=true&theme=radical)  
 
 ---
 
