@@ -1,7 +1,7 @@
 # Hi there👋🏼, I'm Aditya Das  
 
 🎓 Cybersecurity BS/MS Student at NJIT  
-🔐 Cloud Security Intern @ NJDOL | AWS CPP | SC-900
+🔐 Cloud Security Intern @ NJDOL | AWS SAA | SC-900
 
 ---
 
