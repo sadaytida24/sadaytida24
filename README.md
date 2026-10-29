@@ -1,35 +1,43 @@
-# Hi there👋🏼, I'm Aditya Das  
+# Aditya Das
 
-🎓 Cybersecurity Student at NJIT  
-🔐 Security+| AWS SAA | SC-900
+**Cloud Security Engineer | Security Automation | AWS & GCP | Duke University Cybersecurity**
 
----
+I work at the intersection of cloud infrastructure, security operations, and automation. My focus is on building secure, repeatable infrastructure and improving how teams detect, investigate, and respond to threats.
 
-### 🚀 About Me
-- 🌐 Focused on Cloud Security, Identity & Access Management (IAM), and Security Automation
-- 💻 Hands-on experience with AWS Security Hub, AWS Config, Lambda, and Terraform
-- 🛡️ Strong interests in Security Operations (SOC), Digital Forensics, and DevSecOps practices
-- 📈 Continuously developing projects in Python, Linux environments, and in the Cloud.
+- **Current work:** Infrastructure security and cloud operations at the New Jersey Office of Information Technology / NJ Cybersecurity and Communications Integration Cell (NJCCIC).
+- **Graduate studies:** Master of Engineering in Cybersecurity, Duke University (in progress).
+- **Education:** B.S. in Information Technology, Network Security, New Jersey Institute of Technology.
+- **Interests:** Cloud security engineering, DevSecOps, identity and access management, detection engineering, and secure AI systems.
 
----
+## What I work with
 
-### 🛠️ Tech Stack
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+| Area | Technologies & practices |
+| --- | --- |
+| Cloud & infrastructure | AWS, Google Cloud, Linux, Windows, Docker |
+| Infrastructure as code & automation | Terraform, Ansible, Python, Bash |
+| Security operations | CrowdStrike Falcon, Google Security Operations, log management, incident response |
+| Identity & security controls | IAM, access reviews, least privilege, cloud configuration security |
 
----
+## Certifications
 
-### 📌 Pinned Projects
-- [**PrepPenguin**](https://github.com/sadaytida24/PrepPenguin) 🐧 — Education startup project  
-- [**Ghost-Lock**](https://github.com/sadaytida24/Ghost-Lock) 🔒 — Security-focused tool  
-- [**Aditya-Portfolio**](https://github.com/sadaytida24/Aditya-Portfolio) 🌐 — Personal portfolio website  
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+- Microsoft Security, Compliance, and Identity Fundamentals (SC-900)
+- CrowdStrike Certified Cloud Specialist
 
----
+## Selected repositories
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasaditya24)  
-[![YouTube](https://img.shields.io/badge/-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@Sadaytida24)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/sadaytida24)  
+- [**Aditya-Portfolio**](https://github.com/sadaytida24/Aditya-Portfolio) — Personal portfolio and professional background.
+- [**Ghost-Lock**](https://github.com/sadaytida24/Ghost-Lock) — Privacy-focused product concept and design documentation; described capabilities are not necessarily implemented.
+- [**PrepPenguin**](https://github.com/sadaytida24/PrepPenguin) — Education-oriented project.
+
+> Some professional security work involves restricted infrastructure and cannot be published. Public repositories represent personal, academic, or otherwise shareable work only.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/dasaditya24)
+- [GitHub](https://github.com/sadaytida24)
+- [YouTube](https://www.youtube.com/@Sadaytida24)
+
+**Open to conversations about cloud security, security automation, DevSecOps, and secure AI engineering.**
